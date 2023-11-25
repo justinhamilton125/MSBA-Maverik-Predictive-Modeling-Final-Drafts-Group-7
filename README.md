@@ -4,11 +4,11 @@ This repository contains all of the final drafts submitted to Maverik by Group 7
 
 The files that are found within this repository are linked below:
 
-# Business Problem Statement
+## Business Problem Statement Files
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis Files
 
-# Modeling
+## Modeling Files
 
-# Presentation
+## Presentation Files
 
