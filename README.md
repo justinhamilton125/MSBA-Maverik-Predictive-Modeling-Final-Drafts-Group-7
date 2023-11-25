@@ -8,7 +8,7 @@ The files that are found within this repository are linked below:
 
 [Link to Business Problem Statement Files Folder](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/tree/main/Business%20Problem%20Statement%20Files)
 
-This file
+- This folder contains the PDF and Word versions of the Business Problem Statement
 
 [Link to Business Problem Statement As Word Document](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/blob/main/Business%20Problem%20Statement%20Files/IS%206813%20Maverick%20Business%20Problem%20Statement.docx)
 
