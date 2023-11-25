@@ -22,9 +22,15 @@ The files that are found within this repository are linked below:
 
 [Link to EDA Files Folder](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/tree/main/EDA%20Files)
 
+- This is the folder that contains the EDA files created by the group
+
 [Link to EDA as HTML](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/blob/main/EDA%20Files/Group%207%20EDA%20Final%20Draft.html)
 
+- This is the EDA in HTML form
+
 [Link to EDA as JupyterNotebook](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/blob/main/EDA%20Files/Group%207%20EDA%20Final%20Draft.ipynb)
+
+- This is the EDA in the form of a Jupyter Notebook
 
 
 ## Modeling Files
