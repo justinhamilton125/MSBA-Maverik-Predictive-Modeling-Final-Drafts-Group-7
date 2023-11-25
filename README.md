@@ -37,9 +37,15 @@ The files that are found within this repository are linked below:
 
 [Link to Modeling Files Folder](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/tree/main/Modeling%20Files)
 
+- This folder contains the Modeling Files
+
 [Link to Final Recommended Model to Implement](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/blob/main/Modeling%20Files/Capstone%20Maverik%20Modeling%20Final%20Group%207.ipynb)
 
+- This file contains the final model that the group recommends Maverik implement and use. This is the model that had the best performance.
+
 [Link to Other Models Developed for Further Consideration](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/blob/main/Modeling%20Files/Capstone%20Modeling%20Assignment%20Group%207%20(2).ipynb)
+
+- This file contains other models that the group developed. Whlie these models are not recommended as the one for Maverik to implement, these models still provide interesting insights that Maverik may find interesting. 
 
 
 
@@ -47,3 +53,5 @@ The files that are found within this repository are linked below:
 
 
 [Link to Presentation Files Folder](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/tree/main/Presentation)
+
+- This folder contains the final presentation given by Group 7 in the forms of PowerPoint and PDF
