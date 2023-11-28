@@ -54,4 +54,12 @@ The files that are found within this repository are linked below:
 
 [Link to Presentation Files Folder](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/tree/main/Presentation)
 
-- This folder contains the final presentation given by Group 7 in the forms of PowerPoint and PDF
+- This folder contains the final presentation given by Group 7 in the forms of PowerPoint and PDF.
+
+[Link to Presentation as PDF](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/blob/main/Presentation/IS%20MSBA%206813%20Maverik%20Presentation%20Final%20Draft.pdf)
+
+- This file is the final presentation done by Group 7 in a PDF Format for quick visibility on GitHub.
+
+[Link to Presentation as PowerPoint](https://github.com/justinhamilton125/MSBA-Maverik-Predictive-Modeling-Final-Drafts-Group-7/blob/main/Presentation/IS%20MSBA%206813%20Maverik%20Presentation%20Final%20Draft.pptx)
+
+- This file is the final presentation in the form of PowerPoint to be downloaded and presented as in class presentation.
